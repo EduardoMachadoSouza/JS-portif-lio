@@ -9,7 +9,8 @@ Funções em JavaScript são blocos de código reutilizáveis que realizam uma t
 ```javascript
 function saudacao(nome) {
   console.log("Olá, " + nome + "!");
-}```
+}
+```
 
 ### Chamando Funções
 
@@ -71,6 +72,7 @@ Em JavaScript, as funções são consideradas objetos de primeira classe, o que 
 ```js
 let funcaoDinamica = function() {
   console.log("Função dinâmica.");
-};```
+};
+```
 
 As funções desempenham um **papel crucial** em JavaScript, permitindo a modularização do código e a reutilização de lógica. Elas são uma parte essencial da programação em JavaScript e são usadas em muitos aspectos do **desenvolvimento web** e da **programação em geral**.
