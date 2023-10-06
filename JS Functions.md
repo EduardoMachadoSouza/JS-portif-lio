@@ -41,7 +41,8 @@ console.log(resultado); // Isso imprimirá 8
 ```js
 let dobrar = function(numero) {
   return numero * 2;
-};```
+};
+```
 
 ### Arrow Functions (Funções de Flecha)
 
