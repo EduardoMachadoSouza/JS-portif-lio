@@ -9,6 +9,7 @@ Uma coleção dos conhecimentos relacionados a **JavaScript**
 - [[JS Variables]]
 - [[JS Functions]]
 - [[JS Objects]]
+- [[JS Events]]
 
 |+|Adição|
 |---|---|
