@@ -1,4 +1,4 @@
-#JSs 
+
 Funções em JavaScript são blocos de código reutilizáveis que realizam uma tarefa específica quando chamadas. Elas são uma parte fundamental da linguagem e são usadas para organizar e reutilizar lógica em um programa.
 ### Declaração de Funções
 
@@ -11,7 +11,6 @@ function saudacao(nome) {
   console.log("Olá, " + nome + "!");
 }
 ```
-
 ### Chamando Funções
 
 - Para executar uma função, você a chama pelo nome, seguido de parênteses `()`.

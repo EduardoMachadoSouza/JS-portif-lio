@@ -17,7 +17,6 @@ botao.addEventListener("click", function() {
   alert("Botão clicado!");
 });
 ```
-
 ### Tipos de Eventos Comuns
 
 - Alguns tipos de eventos comuns incluem:

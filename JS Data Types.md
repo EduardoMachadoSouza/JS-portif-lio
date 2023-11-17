@@ -1,4 +1,4 @@
-#JSs 
+
 Certamente, aqui está uma lista dos tipos de dados em JavaScript, juntamente com uma breve descrição de cada um:
 
 1. **String (Texto):** O tipo de dados `string` é usado para representar texto. As strings são definidas com aspas simples (`' '`) ou aspas duplas (`" "`). Exemplo: `let nome = "Maria";`

@@ -1,8 +1,8 @@
-#JS
+
 Uma coleção dos conhecimentos relacionados a **JavaScript** 
 ### Lista dos tópicos
 
-- [[JS Introduction]]
+- [[JS Introduction]] (#js-intro)
 - [[JS Data Types]]
 - [[JS Operadores]]
 - [[JS Output]] 
