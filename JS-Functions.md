@@ -1,3 +1,4 @@
+# JS Functions
 
 Funções em JavaScript são blocos de código reutilizáveis que realizam uma tarefa específica quando chamadas. Elas são uma parte fundamental da linguagem e são usadas para organizar e reutilizar lógica em um programa.
 ### Declaração de Funções

@@ -1,3 +1,4 @@
+# JS Output
 
 Em **JavaScript**, a saída geralmente é feita usando funções ou métodos que permitem exibir informações no console do navegador ou em outros lugares, como em uma página da web.
 

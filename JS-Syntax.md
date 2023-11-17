@@ -1,3 +1,4 @@
+# JS Syntax
 
 ### Declaração de Variáveis
 

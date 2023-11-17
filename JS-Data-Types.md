@@ -1,3 +1,4 @@
+# JS Data Types
 
 Certamente, aqui está uma lista dos tipos de dados em JavaScript, juntamente com uma breve descrição de cada um:
 

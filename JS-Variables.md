@@ -1,3 +1,4 @@
+# JS Variables
 
 Em JavaScript, você pode declarar variáveis usando três palavras-chave diferentes: `var`, `let` e `const`. Cada uma delas tem características distintas relacionadas ao escopo e à mutabilidade da variável.
 

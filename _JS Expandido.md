@@ -2,7 +2,7 @@
 Uma coleção dos conhecimentos relacionados a **JavaScript** 
 ### Lista dos tópicos
 
-- [JS Introduction](JS-Introduction.md)
+- [JS-Introduction](JS-Introduction.md)
 - [JS-Data Types](JS-Data-Types.md)
 - [JS-Operadores](JS-Operadores.md)
 - [JS-Output](JS-Output.md) 

@@ -1,3 +1,4 @@
+# JS Introduction
 
 Em HTML, códigos JavaScript são inseridos entre as tags `<script>` `</script>`.
 JavaScript é um bloco de código JavaScript, que pode ser executado quando "chamado" por `function`.
