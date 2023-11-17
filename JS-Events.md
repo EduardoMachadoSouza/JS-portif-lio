@@ -1,4 +1,4 @@
-#JSs 
+
 Eventos em JavaScript permitem que você responda a ações do usuário ou ações que ocorrem em elementos HTML, como cliques, movimentos do mouse, pressionamentos de teclas e muito mais. Eles são uma parte fundamental da programação web interativa.
 
 ### Eventos do DOM

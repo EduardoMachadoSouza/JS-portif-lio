@@ -1,4 +1,4 @@
-#JSs 
+
 ### Operadores aritméticos
 
 |Operador|Descrição|

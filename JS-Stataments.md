@@ -1,4 +1,4 @@
-#JSs
+
 Instruções em JavaScript
 
 ### Declaração de Variáveis (`var`, `let`, `const`)

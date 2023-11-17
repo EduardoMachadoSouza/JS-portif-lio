@@ -1,4 +1,4 @@
-#JSs
+
 ### Declaração de Variáveis
 
 - Você pode declarar variáveis usando `var`, `let` ou `const`.

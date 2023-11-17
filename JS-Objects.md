@@ -1,4 +1,4 @@
-#JSs 
+
 Em JavaScript, objetos são estruturas de dados que permitem agrupar valores relacionados (chave-valor) em uma única unidade. Eles são fundamentais para a linguagem e são usados para representar coisas do mundo real, dados complexos e até mesmo funcionalidades da linguagem.
 
 ### Declaração de Objetos
